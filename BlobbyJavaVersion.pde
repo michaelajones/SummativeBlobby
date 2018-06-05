@@ -6,6 +6,7 @@ void setup() {
 
 void draw() {
   background(0);
+  noStroke();
 
   translate(width / 2, height / 2);
 
