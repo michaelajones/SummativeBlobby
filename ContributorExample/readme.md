@@ -1,1 +1,1 @@
-Put Intructions here for contributors
+Put Instructions here for contributors
